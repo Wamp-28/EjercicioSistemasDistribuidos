@@ -19,6 +19,8 @@ public class Principal {
         System.out.println("c = " + c);
         System.out.println("d = " + d);
 
+        System.out.println("La suma de "+ c + " + " + d +" Es: " + (c+d) );
+
 
     }
 
