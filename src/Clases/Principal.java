@@ -11,6 +11,9 @@ public class Principal {
         System.out.println("a = " + a);
         System.out.println("b = " + b);
 
+        System.out.println("La suma de "+ a + " + " + b +" Es: " + (a+b) );
+
+
         double c = 3.14, d = 5.68;
 
         System.out.println("c = " + c);
