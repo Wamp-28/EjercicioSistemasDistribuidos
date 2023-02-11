@@ -6,6 +6,12 @@ public class Principal {
 
         System.out.println("Hola Clase");
 
+        int a = 5, b=6;
+
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
+
+
     }
 
 
